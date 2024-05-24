@@ -98,7 +98,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For questions or comments, please contact [yourname](mailto:your.email@example.com).
+For questions or comments, please contact Leon Pretorius at L.Pretorius07@gmail.com
 
 ---
 
